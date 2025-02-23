@@ -1,2 +1,2 @@
 # Amazon_clone
-try my hand on html and css this only contains the design of it .I try to make my page look like amazon home page
+Try my hand on HTML and CSS. This only contains the design of it. I try to make my page look like Amazon home page.
